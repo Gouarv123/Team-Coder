@@ -1,4 +1,4 @@
-# Team-Coder
+# Team-Coder project diaster management
 This is a codefundo project based on disaster management, which will not only predict natural disasters but also provides with suitable precautions and measures to be taken to minimise damage. Some of the most common disasters are: Earthquake, Tsunamis, Thunderstorms and floods.
 
 What are natural disasters?
@@ -24,3 +24,4 @@ The app will display the weather conditions of the entered or selected region wi
 Database and its use:
 
 We will store the datas of previous occurrences of natural calamities of different regions as the database. We will provide an interactive interface for the user to get an idea of probability of floods and tsunamis at his present coordinate.
+ 
